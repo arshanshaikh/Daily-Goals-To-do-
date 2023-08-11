@@ -1,0 +1,3 @@
+We have used key in map do to an errror is occuring and map should always has a unique key and to make them we used (item,index)index is always unique like 1 2 3...
+
+<button onClick={() => deleteTask(index)}>-</button> we have to do it in a arrow function because we are passing a parameter which is index
